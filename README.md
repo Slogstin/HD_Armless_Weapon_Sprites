@@ -1,5 +1,8 @@
 # Description
-This is a reskin pack for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor) that changes all weapons that feature hands to show black gloves and no visible arms.
+This is a reskin pack for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor) that changes all weapons which feature hands to show black gloves and no visible arms.
+
+There are also Freedoom/Lotan's Tomb specific sprites and details, such as the Sawn-off & Scoped shotguns featuring green shells.
+
 I did take some creative liberty and changed the colour of the Boss rifle, Revolver & Fire Axe, though these are mostly just leftovers from my personal pack that i decided to keep here.
 
 There are also sprites for a handful of addons, such as:
