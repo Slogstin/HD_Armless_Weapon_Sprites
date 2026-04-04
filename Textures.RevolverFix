@@ -1,0 +1,104 @@
+Sprite "REVGE0", 76, 80
+{
+	Offset -125, -100
+	Patch "REVCYL2", 24, 0
+	Patch "REVTURN", 0, 3
+}
+
+Sprite "REVGF0", 100, 75
+{
+	Offset -113, -100
+	Patch "REVCYL1", 50, 0
+	Patch "REVOPEN", 0, 20
+}
+
+Sprite "REVGG0", 100, 75
+{
+	Offset -113, -101
+	Patch "REVCYL2", 50, 0
+	Patch "REVOPEN", 0, 20
+}
+
+Sprite "SNUBE0", 77, 80
+{
+	Offset -125, -100
+	Patch "SNBCYL2", 24, 0
+	Patch "SNBTURN", 0, 3
+}
+
+Sprite "SNUBF0", 98, 75
+{
+	Offset -113, -100
+	Patch "SNBCYL1", 50, 0
+	Patch "SNBOPEN", 0, 20
+}
+
+Sprite "SNUBG0", 98, 75
+{
+	Offset -113, -101
+	Patch "SNBCYL2", 50, 0
+	Patch "SNBOPEN", 0, 20
+}
+
+Sprite "RSAGE0", 77, 80
+{
+	Offset -125, -100
+	Patch "RSACYL2", 24, 0
+	Patch "RSATURN", 0, 3
+}
+
+Sprite "RSAGF0", 98, 79
+{
+	Offset -113, -101
+	Patch "RSACYL1", 50, 0
+	Patch "RSAOPEN", 0, 16
+}
+
+Sprite "RSAGG0", 98, 79
+{
+	Offset -113, -102
+	Patch "RSACYL2", 50, 0
+	Patch "RSAOPEN", 0, 16
+}
+
+Sprite "GSAGE0", 77, 80
+{
+	Offset -125, -100
+	Patch "GSACYL2", 25, 0
+	Patch "GSATURN", 0, 3
+}
+
+Sprite "GSAGF0", 98, 75
+{
+	Offset -113, -100
+	Patch "GSACYL1", 50, 0
+	Patch "GSAOPEN", 0, 20
+}
+
+Sprite "GSAGG0", 98, 75
+{
+	Offset -113, -101
+	Patch "GSACYL2", 50, 0
+	Patch "GSAOPEN", 0, 20
+}
+
+Sprite "SRVGE0", 85, 86
+{
+	Offset -124, -94
+	Patch "REVCYL2", 25, 6
+	Patch "SREVTURN", -1, 0
+}
+
+Sprite "SRVGF0", 113, 75
+{
+	Offset -115, -100
+	Patch "REVCYL1", 48, 0
+	Patch "SREVOPEN", 0, 17
+}
+
+Sprite "SRVGG0", 113, 75
+{
+	Offset -115, -101
+	Patch "REVCYL2", 48, 0
+	Patch "SREVOPEN", 0, 17
+}
