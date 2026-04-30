@@ -5,11 +5,14 @@ There are also Freedoom/Lotan's Tomb specific sprites and details, such as the S
 
 I did take some creative liberty and changed the colour of the Boss rifle, Revolver & Fire Axe, though these are mostly just leftovers from my personal pack that i decided to keep here.
 
-There are also sprites for a handful of addons, such as:
+There are also sprites for a large number of addons, such as:
 - Peppergrinder
 - Bangers & Mash
 - RadTech Weapons
 - Icarus Innovations
+- 1337Weps
+- RRRRWeapons
+- Mortis Munitions
 - Flintlocks from Cozi's Offworld Wares
 - The Wyvern & Viper from Acecorp Engineering Dept.
 - The MA75B & MA76C from WAN Industries
@@ -35,3 +38,6 @@ Everyone who worked on the weapon sprites for:
 - [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
 - [WAN Industries](https://codeberg.org/Wanzer/HDst_WAN_Industries)
 - [Acecorp Engineering Dept.](https://github.com/HDest-Community/ace-corp-extended)
+- [Mortis Munitions](https://github.com/tedthepraimortis/Mortis-Munitions)
+- [RRRRWeapons](https://github.com/HDest-Community/RRRRweapons/tree/main/Sprites)
+- [1337Weps](https://gitlab.com/a1337spy/1337weps)
